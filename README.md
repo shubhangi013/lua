@@ -107,7 +107,7 @@ This project is licensed under the GPL License - see the LICENSE file for detail
 
 ## Author
 
-Your Name
+Shubhangi
 
 ## Acknowledgments
 
